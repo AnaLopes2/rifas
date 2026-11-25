@@ -1,0 +1,9 @@
+node_modules
+dist
+demo-build
+zip-test
+zip-stage
+*.zip
+.env
+.env.local
+.claude/

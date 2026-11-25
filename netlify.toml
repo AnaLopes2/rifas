@@ -1,0 +1,7 @@
+# Publicação da VERSÃO DE DEMONSTRAÇÃO no Netlify (sem área administrativa).
+[build]
+  command = "npm run build:demo"
+  publish = "demo-build"
+
+[build.environment]
+  NODE_VERSION = "22"

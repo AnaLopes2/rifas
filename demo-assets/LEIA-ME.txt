@@ -1,0 +1,31 @@
+RIFA PREMIUM — PROTÓTIPO DE DEMONSTRAÇÃO
+==========================================
+
+COMO ABRIR
+1. Extraia (descompacte) esta pasta ZIP no computador.
+   No Windows: clique com o botão direito no arquivo .zip > "Extrair tudo...".
+2. Abra a pasta extraída e dê dois cliques em "index.html".
+3. O site abre no navegador (recomendado: Google Chrome, Microsoft Edge ou Safari atualizados).
+
+Não é preciso instalar nenhum programa.
+Mantenha a pasta "carros" junto do index.html (é onde ficam as fotos).
+Com internet, o site usa as fontes originais; sem internet, funciona com uma fonte padrão.
+
+O QUE PODE SER TESTADO
+- Página Início com o cartão do carro.
+- Página da rifa: fotos em slide (com setas), detalhes do carro, pacotes,
+  filtros e grade de números de 000 a 999.
+- Seleção de números conforme o pacote e resumo com valor total.
+- Cadastro com código de verificação (o código aparece na própria tela).
+- Resumo do pedido, Pix e cartão — apenas visuais.
+- Buscar meus títulos, Pagamentos pendentes, Minha conta.
+- Contato e Suporte, Termos, Privacidade, Regras e Política de Pagamentos.
+
+OBSERVAÇÕES IMPORTANTES
+- Este é um PROTÓTIPO em modo demonstrativo: nenhum pagamento real é feito
+  e nenhum e-mail ou SMS é enviado.
+- Os dados digitados (cadastros, reservas) ficam apenas no navegador e são
+  apagados ao recarregar a página.
+- As fotos dos carros são provisórias.
+- A área administrativa não está disponível nesta versão de demonstração.
+- Os textos legais são minutas preliminares, sujeitos a revisão jurídica.
